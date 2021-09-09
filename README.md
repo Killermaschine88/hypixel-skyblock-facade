@@ -8,7 +8,7 @@ This API acts as a facade to the real Hypixel API, its purpose is to make it eas
 
 ## Table of Content
 
-* [Installation using NodeJS](#installation-using-nodejs)
+* [Installation using NodeJS](#installation-using-nodejs)a
   + [Prerequisites](#prerequisites)
   + [Setup Guide](#setup-guide)
 * [Installation using Docker](#installation-using-docker)
